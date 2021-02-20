@@ -1,6 +1,6 @@
 {
   "name": "random-messages_spina7",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "random de mensajes",
   "main": "src/index.js",
   "scripts": {
@@ -14,7 +14,7 @@
   "author": "Sergio Piña <alonzopina7@gmail.com>",
   "license": "MIT",
   "bin": {
-    "random-msg": "./bin/global.js"
+    "random-msg": "bin/global.js"
   },
   "preferGlobal": true
 }
